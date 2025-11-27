@@ -1,0 +1,89 @@
+.weather-bg {
+    background-image: url("../images/bg.jpeg");
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -4rem;
+}
+.topBannerOverlay {
+    position: absolute;
+    min-height: 550px;
+    width: 100%;
+    background: rgb(0, 0, 0, 0.7);
+} 
+
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    margin-left: 1.5rem;
+    font-weight: 700;
+}
+
+.main-h {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding-top: 10rem;
+}
+
+.selects {
+    margin-left: 270px;
+}
+
+.select {
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 25px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.measurements {
+    margin: 2rem;
+    margin-top: 4rem;
+    margin-left: 6rem;
+}
+
+.measure {
+    font-size: 6rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.degree {
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;;
+}
+
+.spin {
+    width: 10rem;
+     height: 10rem;
+    border: solid black 8rem; 
+    border: transparent;
+    animation: var(--animate-spin);
+    @keyframes spin {
+        to {
+            transform: rotate(360deg);
+        }
+        }
+}
+.loader-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999999;
+}
+

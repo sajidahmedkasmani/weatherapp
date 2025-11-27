@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Karachi",
+    "country": "PK"
+  },
+  {
+    "id": 2,
+    "name": "Lahore",
+    "country": "PK"
+  },
+  {
+    "id": 3,
+    "name": "Islamabad",
+    "country": "PK"
+  },
+  {
+    "id": 4,
+    "name": "Rawalpindi",
+    "country": "PK"
+  },
+  {
+    "id": 5,
+    "name": "Faisalabad",
+    "country": "PK"
+  },
+  {
+    "id": 6,
+    "name": "Multan",
+    "country": "PK"
+  },
+  {
+    "id": 7,
+    "name": "Hyderabad",
+    "country": "PK"
+  },
+  {
+    "id": 8,
+    "name": "Quetta",
+    "country": "PK"
+  },
+  {
+    "id": 9,
+    "name": "Peshawar",
+    "country": "PK"
+  },
+  {
+    "id": 10,
+    "name": "Sialkot",
+    "country": "PK"
+  },
+  {
+    "id": 11,
+    "name": "New York",
+    "country": "US"
+  },
+  {
+    "id": 12,
+    "name": "Los Angeles",
+    "country": "US"
+  },
+  {
+    "id": 13,
+    "name": "Chicago",
+    "country": "US"
+  },
+  {
+    "id": 14,
+    "name": "Houston",
+    "country": "US"
+  },
+  {
+    "id": 15,
+    "name": "Phoenix",
+    "country": "US"
+  },
+  {
+    "id": 16,
+    "name": "Philadelphia",
+    "country": "US"
+  },
+  {
+    "id": 17,
+    "name": "San Antonio",
+    "country": "US"
+  },
+  {
+    "id": 18,
+    "name": "San Diego",
+    "country": "US"
+  },
+  {
+    "id": 19,
+    "name": "Dallas",
+    "country": "US"
+  },
+  {
+    "id": 20,
+    "name": "San Jose",
+    "country": "US"
+  },
+  {
+    "id": 21,
+    "name": "Delhi",
+    "country": "IN"
+  },
+  {
+    "id": 22,
+    "name": "Mumbai",
+    "country": "IN"
+  },
+  {
+    "id": 23,
+    "name": "Bangalore",
+    "country": "IN"
+  },
+  {
+    "id": 24,
+    "name": "Hyderabad",
+    "country": "IN"
+  },
+  {
+    "id": 25,
+    "name": "Ahmedabad",
+    "country": "IN"
+  },
+  {
+    "id": 26,
+    "name": "Chennai",
+    "country": "IN"
+  },
+  {
+    "id": 27,
+    "name": "Kolkata",
+    "country": "IN"
+  },
+  {
+    "id": 28,
+    "name": "Surat",
+    "country": "IN"
+  },
+  {
+    "id": 29,
+    "name": "Pune",
+    "country": "IN"
+  },
+  {
+    "id": 30,
+    "name": "Jaipur",
+    "country": "IN"
+  },
+  {
+    "id": 31,
+    "name": "Toronto",
+    "country": "CA"
+  },
+  {
+    "id": 32,
+    "name": "Vancouver",
+    "country": "CA"
+  },
+  {
+    "id": 33,
+    "name": "Montreal",
+    "country": "CA"
+  },
+  {
+    "id": 34,
+    "name": "Calgary",
+    "country": "CA"
+  },
+  {
+    "id": 35,
+    "name": "Ottawa",
+    "country": "CA"
+  },
+  {
+    "id": 36,
+    "name": "Edmonton",
+    "country": "CA"
+  },
+  {
+    "id": 37,
+    "name": "Winnipeg",
+    "country": "CA"
+  },
+  {
+    "id": 38,
+    "name": "Quebec City",
+    "country": "CA"
+  },
+  {
+    "id": 39,
+    "name": "Hamilton",
+    "country": "CA"
+  },
+  {
+    "id": 40,
+    "name": "Kitchener",
+    "country": "CA"
+  },
+  {
+    "id": 41,
+    "name": "Sydney",
+    "country": "AU"
+  },
+  {
+    "id": 42,
+    "name": "Melbourne",
+    "country": "AU"
+  },
+  {
+    "id": 43,
+    "name": "Brisbane",
+    "country": "AU"
+  },
+  {
+    "id": 44,
+    "name": "Perth",
+    "country": "AU"
+  },
+  {
+    "id": 45,
+    "name": "Adelaide",
+    "country": "AU"
+  },
+  {
+    "id": 46,
+    "name": "Gold Coast",
+    "country": "AU"
+  },
+  {
+    "id": 47,
+    "name": "Canberra",
+    "country": "AU"
+  },
+  {
+    "id": 48,
+    "name": "Newcastle",
+    "country": "AU"
+  },
+  {
+    "id": 49,
+    "name": "Wollongong",
+    "country": "AU"
+  },
+  {
+    "id": 50,
+    "name": "Logan City",
+    "country": "AU"
+  }
+]

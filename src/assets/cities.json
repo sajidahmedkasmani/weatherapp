@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Karachi",
+    "country": "PK"
+  },
+  {
+    "id": 2,
+    "name": "Lahore",
+    "country": "PK"
+  },
+  {
+    "id": 3,
+    "name": "Islamabad",
+    "country": "PK"
+  },
+  {
+    "id": 4,
+    "name": "Rawalpindi",
+    "country": "PK"
+  },
+  {
+    "id": 5,
+    "name": "Faisalabad",
+    "country": "PK"
+  },
+  {
+    "id": 6,
+    "name": "Multan",
+    "country": "PK"
+  },
+  {
+    "id": 7,
+    "name": "Hyderabad",
+    "country": "PK"
+  },
+  {
+    "id": 8,
+    "name": "Quetta",
+    "country": "PK"
+  },
+  {
+    "id": 9,
+    "name": "Peshawar",
+    "country": "PK"
+  },
+  {
+    "id": 10,
+    "name": "Sialkot",
+    "country": "PK"
+  },
+  {
+    "id": 11,
+    "name": "New York",
+    "country": "US"
+  },
+  {
+    "id": 12,
+    "name": "Los Angeles",
+    "country": "US"
+  },
+  {
+    "id": 13,
+    "name": "Chicago",
+    "country": "US"
+  },
+  {
+    "id": 14,
+    "name": "Houston",
+    "country": "US"
+  },
+  {
+    "id": 15,
+    "name": "Phoenix",
+    "country": "US"
+  },
+  {
+    "id": 16,
+    "name": "Philadelphia",
+    "country": "US"
+  },
+  {
+    "id": 17,
+    "name": "San Antonio",
+    "country": "US"
+  },
+  {
+    "id": 18,
+    "name": "San Diego",
+    "country": "US"
+  },
+  {
+    "id": 19,
+    "name": "Dallas",
+    "country": "US"
+  },
+  {
+    "id": 20,
+    "name": "San Jose",
+    "country": "US"
+  },
+  {
+    "id": 21,
+    "name": "Delhi",
+    "country": "IN"
+  },
+  {
+    "id": 22,
+    "name": "Mumbai",
+    "country": "IN"
+  },
+  {
+    "id": 23,
+    "name": "Bangalore",
+    "country": "IN"
+  },
+  {
+    "id": 24,
+    "name": "Hyderabad",
+    "country": "IN"
+  },
+  {
+    "id": 25,
+    "name": "Ahmedabad",
+    "country": "IN"
+  },
+  {
+    "id": 26,
+    "name": "Chennai",
+    "country": "IN"
+  },
+  {
+    "id": 27,
+    "name": "Kolkata",
+    "country": "IN"
+  },
+  {
+    "id": 28,
+    "name": "Surat",
+    "country": "IN"
+  },
+  {
+    "id": 29,
+    "name": "Pune",
+    "country": "IN"
+  },
+  {
+    "id": 30,
+    "name": "Jaipur",
+    "country": "IN"
+  },
+  {
+    "id": 31,
+    "name": "Toronto",
+    "country": "CA"
+  },
+  {
+    "id": 32,
+    "name": "Vancouver",
+    "country": "CA"
+  },
+  {
+    "id": 33,
+    "name": "Montreal",
+    "country": "CA"
+  },
+  {
+    "id": 34,
+    "name": "Calgary",
+    "country": "CA"
+  },
+  {
+    "id": 35,
+    "name": "Ottawa",
+    "country": "CA"
+  },
+  {
+    "id": 36,
+    "name": "Edmonton",
+    "country": "CA"
+  },
+  {
+    "id": 37,
+    "name": "Winnipeg",
+    "country": "CA"
+  },
+  {
+    "id": 38,
+    "name": "Quebec City",
+    "country": "CA"
+  },
+  {
+    "id": 39,
+    "name": "Hamilton",
+    "country": "CA"
+  },
+  {
+    "id": 40,
+    "name": "Kitchener",
+    "country": "CA"
+  },
+  {
+    "id": 41,
+    "name": "Sydney",
+    "country": "AU"
+  },
+  {
+    "id": 42,
+    "name": "Melbourne",
+    "country": "AU"
+  },
+  {
+    "id": 43,
+    "name": "Brisbane",
+    "country": "AU"
+  },
+  {
+    "id": 44,
+    "name": "Perth",
+    "country": "AU"
+  },
+  {
+    "id": 45,
+    "name": "Adelaide",
+    "country": "AU"
+  },
+  {
+    "id": 46,
+    "name": "Gold Coast",
+    "country": "AU"
+  },
+  {
+    "id": 47,
+    "name": "Canberra",
+    "country": "AU"
+  },
+  {
+    "id": 48,
+    "name": "Newcastle",
+    "country": "AU"
+  },
+  {
+    "id": 49,
+    "name": "Wollongong",
+    "country": "AU"
+  },
+  {
+    "id": 50,
+    "name": "Logan City",
+    "country": "AU"
+  },
+  {
+    "id": 51,
+    "name": "London",
+    "country": "GB"
+  },
+  {
+    "id": 52,
+    "name": "Paris",
+    "country": "FR"
+  },
+  {
+    "id": 53,
+    "name": "Marseille",
+    "country": "FR"
+  },
+  {
+    "id": 54,
+    "name": "Lyon",
+    "country": "FR"
+  },
+  {
+    "id": 55,
+    "name": "Berlin",
+    "country": "DE"
+  },
+  {
+    "id": 56,
+    "name": "Munich",
+    "country": "DE"
+  },
+  {
+    "id": 57,
+    "name": "Hamburg",
+    "country": "DE"
+  },
+  {
+    "id": 58,
+    "name": "Tokyo",
+    "country": "JP"
+  },
+  {
+    "id": 59,
+    "name": "Osaka",
+    "country": "JP"
+  },
+  {
+    "id": 60,
+    "name": "Kyoto",
+    "country": "JP"
+  },
+  {
+    "id": 61,
+    "name": "Mexico City",
+    "country": "MX"
+  },
+  {
+    "id": 62,
+    "name": "Guadalajara",
+    "country": "MX"
+  },
+  {
+    "id": 63,
+    "name": "Monterrey",
+    "country": "MX"
+  },
+  {
+    "id": 64,
+    "name": "Cairo",
+    "country": "EG"
+  },
+  {
+    "id": 65,
+    "name": "Alexandria",
+    "country": "EG"
+  },
+  {
+    "id": 66,
+    "name": "Giza",
+    "country": "EG"
+  },
+  {
+    "id": 67,
+    "name": "Madrid",
+    "country": "ES"
+  },
+  {
+    "id": 68,
+    "name": "Barcelona",
+    "country": "ES"
+  },
+  {
+    "id": 69,
+    "name": "Valencia",
+    "country": "ES"
+  },
+  {
+    "id": 70,
+    "name": "Oslo",
+    "country": "NO"
+  },
+  {
+    "id": 71,
+    "name": "Bergen",
+    "country": "NO"
+  },
+  {
+    "id": 72,
+    "name": "Trondheim",
+    "country": "NO"
+  },
+  {
+    "id": 73,
+    "name": "Riyadh",
+    "country": "SA"
+  },
+  {
+    "id": 74,
+    "name": "Jeddah",
+    "country": "SA"
+  },
+  {
+    "id": 75,
+    "name": "Dammam",
+    "country": "SA"
+  },
+  {
+    "id": 76,
+    "name": "São Paulo",
+    "country": "BR"
+  },
+  {
+    "id": 77,
+    "name": "Rio de Janeiro",
+    "country": "BR"
+  },
+  {
+    "id": 78,
+    "name": "Brasília",
+    "country": "BR"
+  },
+  {
+    "id": 79,
+    "name": "Beijing",
+    "country": "CN"
+  },
+  {
+    "id": 80,
+    "name": "Shanghai",
+    "country": "CN"
+  },
+  {
+    "id": 81,
+    "name": "Guangzhou",
+    "country": "CN"
+  },
+  {
+    "id": 82,
+    "name": "Moscow",
+    "country": "RU"
+  },
+  {
+    "id": 83,
+    "name": "Saint Petersburg",
+    "country": "RU"
+  },
+  {
+    "id": 84,
+    "name": "Novosibirsk",
+    "country": "RU"
+  },
+  {
+    "id": 85,
+    "name": "Istanbul",
+    "country": "TR"
+  },
+  {
+    "id": 86,
+    "name": "Ankara",
+    "country": "TR"
+  },
+  {
+    "id": 87,
+    "name": "Izmir",
+    "country": "TR"
+  },
+  {
+    "id": 88,
+    "name": "Johannesburg",
+    "country": "ZA"
+  },
+  {
+    "id": 89,
+    "name": "Cape Town",
+    "country": "ZA"
+  },
+  {
+    "id": 90,
+    "name": "Durban",
+    "country": "ZA"
+  },
+  {
+    "id": 91,
+    "name": "Jakarta",
+    "country": "ID"
+  },
+  {
+    "id": 92,
+    "name": "Surabaya",
+    "country": "ID"
+  },
+  {
+    "id": 93,
+    "name": "Bandung",
+    "country": "ID"
+  },
+  {
+    "id": 94,
+    "name": "Seoul",
+    "country": "KR"
+  },
+  {
+    "id": 95,
+    "name": "Busan",
+    "country": "KR"
+  },
+  {
+    "id": 96,
+    "name": "Incheon",
+    "country": "KR"
+  }
+]
